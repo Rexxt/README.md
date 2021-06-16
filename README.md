@@ -2,7 +2,7 @@
 hello there
 
 I'm a French tetris player, dev, designer and ***gamer***.
-Preferred pronouns? He/him or They/them.
+Preferred pronouns? Any/any, with preference for they/he in that order. 
 On my way to become a 20G Master!
 
 Enough of that. Now, Github stuff.
