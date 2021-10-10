@@ -1,11 +1,11 @@
 # Mizu
-hello there
+hello there!<br>
 
-I'm a French tetris player, dev, designer and ***gamer***.
-Preferred pronouns? Any/any, with preference for they/he in that order. 
-On my way to become a 20G Master!
-
-Enough of that. Now, Github stuff.
+I'm a French tetris player, dev, designer and ***gamer***.<br>
+Preferred pronouns? She/they (see [carrd](https://mizuofficial.carrd.co/#callinginfo))<br>
+On my way to become a 20G Master!<br>
+<br>
+Enough of that. Now, Github stuff.<br>
 Projects I maintain:
 * [Cambridge](https://github.com/SashLilac/cambridge)
 * [Tetra Legends Plus](https://github.com/Rexxt/tetralegendsplus)
