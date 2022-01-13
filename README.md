@@ -2,7 +2,7 @@
 hello there!<br>
 
 I'm a French tetris player, dev, designer and ***gamer***.<br>
-Preferred pronouns? She/they (see [carrd](https://mizuofficial.carrd.co/#callinginfo))<br>
+Preferred pronouns? any/any except it/its (see [here](https://en.pronouns.page/@MizuOfficial))<br>
 On my way to become a 20G Master!<br>
 <br>
 Enough of that. Now, Github stuff.<br>
