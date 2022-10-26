@@ -6,6 +6,8 @@ Preferred pronouns? they/them (see [here](https://en.pronouns.page/@MizuOfficial
 <br>
 Enough of that. Now, Github stuff.<br>
 Projects I maintain:
-* [Cambridge](https://github.com/SashLilac/cambridge)
+* [Cambridge](https://github.com/MillaBasset/cambridge)
+* [Cambridge Launcher](https://github.com/Rexxt/cambridge-launcher)
 * [Blazenet](https://github.com/Rexxt/blazenet)
 * [tifm](https://github.com/Rexxt/tifm)
+* [tifer](https://github.com/Rexxt/tifer)
