@@ -13,6 +13,6 @@ Projects I maintain:
 * [tifm](https://github.com/Rexxt/tifm) (thinking of features to add)
 * [tifer](https://github.com/Rexxt/tifer) (working to add selection)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,fastapi,lua,bash,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,fastapi,lua,bash,powershell,figma,visualstudio,vscode,discord,stackoverflow,md)](https://skillicons.dev)
 ![Mizu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rexxt&show_icons=true&theme=synthwave&hide_border=0)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rexxt&theme=synthwave&hide_border=0)](https://github.com/anuraghazra/github-readme-stats)
